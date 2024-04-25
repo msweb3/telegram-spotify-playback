@@ -7,10 +7,10 @@ this bot allows you to "stream" your currently playing Spotify track in a single
 ## with `docker run`
 
 ```sh
-docker pull starkow/telegram-spotify-playback
+docker pull msweb3/telegram-spotify-playback
 # set up data.yml
 # set up .env
-docker run -d starkow/telegram-spotify-playback
+docker run -d msweb3/telegram-spotify-playback
 ```
 
 ## with `docker compose`
