@@ -40,7 +40,7 @@ docker compose up --build -d
 ## manual installation
 
 ```sh
-git clone https://github.com/nitreojs/telegram-spotify-playback.git
+git clone https://github.com/msweb3/telegram-spotify-playback.git
 cd telegram-spotify-playback
 yarn # install dependencies
 yarn build
