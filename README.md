@@ -22,7 +22,7 @@ version: '3'
 
 services:
   spotify-playback:
-    image: starkow/telegram-spotify-playback
+    image: msweb3/telegram-spotify-playback
     restart: unless-stopped
     env_file:
       - .env
